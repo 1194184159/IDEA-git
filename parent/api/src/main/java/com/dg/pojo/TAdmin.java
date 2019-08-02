@@ -16,6 +16,7 @@ public class TAdmin implements Serializable {
     this.adminId = adminId;
     this.adminname = adminname;
     this.adminpwd = adminpwd;
+      System.out.println("555");
   }
 
   @Override
